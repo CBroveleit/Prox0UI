@@ -1,0 +1,36 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madror7/Prox0UI.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madror7/Prox0UI/issues"
+  },
+  "homepage": "https://github.com/Madror7/Prox0UI#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "test"
+  },
+  "dependencies": {
+    "date-fns": "^2.11.1",
+    "gray-matter": "^4.0.2",
+    "next": "^10.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "remark": "^12.0.0",
+    "remark-html": "^12.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.16",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.3"
+  }
+}
